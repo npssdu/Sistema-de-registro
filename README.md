@@ -3,3 +3,5 @@
 - Estado del proyecto: En construcción.
 Para ejecutar el sistema, debes digitar:
 ```npm install react```
+
+- Nuevo cambio
